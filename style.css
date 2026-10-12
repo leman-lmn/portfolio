@@ -79,15 +79,13 @@ nav a {
   color:#000; }
 
 .photo {
-  width:320px; 
+  width:320px;
   height:420px;
-  border:4px 
-  solid #000; 
+  border:4px solid #000;
   border-radius:20px;
-  overflow:hidden; 
+  overflow:hidden;
   background:#fff;
-/*BAYANGAN*/
-box-shadow: 12px 12px 0px #000;
+  box-shadow: 12px 12px 0px #000, 0px 20px 40px rgba(0,0,0,0.3);
 }
 
 .photo img { 
