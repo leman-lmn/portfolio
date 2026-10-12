@@ -86,6 +86,8 @@ nav a {
   border-radius:20px;
   overflow:hidden; 
   background:#fff;
+/*BAYANGAN*/
+box-shadow: 12px 12px 0px #000;
 }
 
 .photo img { 
